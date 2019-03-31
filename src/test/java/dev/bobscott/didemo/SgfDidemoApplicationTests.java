@@ -1,4 +1,4 @@
-package dev.bobscott.sgfdidemo;
+package dev.bobscott.didemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
