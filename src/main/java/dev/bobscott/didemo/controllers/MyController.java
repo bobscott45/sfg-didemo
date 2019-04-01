@@ -1,9 +1,8 @@
 package dev.bobscott.didemo.controllers;
 
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
 
-@Component
+@Controller
 public class MyController {
 
     public String hello() {
